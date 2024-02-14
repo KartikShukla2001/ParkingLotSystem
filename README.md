@@ -18,4 +18,4 @@ Once the program is running, you can interact with it using the following comman
 - `$registration_numbers_for_cars_with_colour {input for color}`: Will give the registration number of cars with the input color.
 - `$slot_numbers_for_cars_with_colour {input for color}`: Will give the slot number of cars with the input color.
 - `$slot_number_for_registration_number {input for registration number}`: Will give the slot number of cars with the input registration number.
-- 
+  
